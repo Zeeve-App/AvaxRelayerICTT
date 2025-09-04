@@ -14,6 +14,10 @@ const nextConfig = {
           {
             protocol: 'https',
             hostname: 'cdn.salvor.io',
+          },
+          {
+            protocol: 'https',
+            hostname: 'cogitus.io',
           }
         ],
       },
